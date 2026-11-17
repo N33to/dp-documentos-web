@@ -52,10 +52,6 @@ Mapa das pastas e arquivos de código. O código-fonte não é publicado neste r
     │   │   ├── Permissao.php
     │   │   ├── Recurso.php
     │   │   ├── Requisicao.php
-    │   │   ├── Seguranca.php
-    │   │   ├── Senha.php
-    │   │   ├── Sessao.php
-    │   │   ├── Tentativas.php
     │   │   ├── Util.php
     │   │   └── Xlsx.php
     │   ├── bootstrap.php
@@ -87,7 +83,6 @@ Mapa das pastas e arquivos de código. O código-fonte não é publicado neste r
     │   └── esquema.sql
     └── tests/
         ├── conferir_tela.js
-        ├── config.teste.php
         ├── fumaca_api.py
         ├── rodar.php
         └── semear_demo.php
@@ -105,4 +100,4 @@ Mapa das pastas e arquivos de código. O código-fonte não é publicado neste r
 | HTML | 62 |
 | PowerShell | 12 |
 
-_Arquivos: 68._
+_Arquivos: 63._
